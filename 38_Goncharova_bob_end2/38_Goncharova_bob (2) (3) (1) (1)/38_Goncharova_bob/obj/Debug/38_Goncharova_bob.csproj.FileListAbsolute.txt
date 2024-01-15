@@ -1,0 +1,62 @@
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe.config
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.pdb
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.AssemblyReference.cache
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Form1.resources
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Properties.Resources.resources
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.GenerateResource.cache
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.CoreCompileInputs.cache
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.exe
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.pdb
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe.config
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.pdb
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.AssemblyReference.cache
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.SuggestedBindingRedirects.cache
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Form1.resources
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Properties.Resources.resources
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.GenerateResource.cache
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.CoreCompileInputs.cache
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.exe
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (1)\38_Goncharova_bob (2)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.pdb
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe.config
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.pdb
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.AssemblyReference.cache
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.SuggestedBindingRedirects.cache
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Form1.resources
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Properties.Resources.resources
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.GenerateResource.cache
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.CoreCompileInputs.cache
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.exe
+C:\Users\s0172073\Downloads\38_Goncharova_bob (2) (3)\38_Goncharova_bob (2) (3)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.pdb
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe.config
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.pdb
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.AssemblyReference.cache
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Form1.resources
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Properties.Resources.resources
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.GenerateResource.cache
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.CoreCompileInputs.cache
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.exe
+C:\Users\ng421\OneDrive\Рабочий стол\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.pdb
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe.config
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.pdb
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.AssemblyReference.cache
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Form1.resources
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Properties.Resources.resources
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.GenerateResource.cache
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.CoreCompileInputs.cache
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.exe
+Z:\38_Goncharova_bob (2) (3) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.pdb
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe.config
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.exe
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\bin\Debug\38_Goncharova_bob.pdb
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.AssemblyReference.cache
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Form1.resources
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\obj\Debug\_38_Goncharova_bob.Properties.Resources.resources
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.GenerateResource.cache
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.csproj.CoreCompileInputs.cache
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.exe
+D:\38_Goncharova_bob_end2\38_Goncharova_bob (2) (3) (1) (1)\38_Goncharova_bob\obj\Debug\38_Goncharova_bob.pdb
